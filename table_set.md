@@ -1,8 +1,7 @@
 * users
    * nickname： string
-   * avatar_image_id： string
    * email： string
-   * password： string
+   * password_digest： string
    * admin： boolean
    * created_at： datetime
    * updated_at： datetime
